@@ -5,8 +5,8 @@
 ## 📌 List Postingan-postingan Penting di Grup "Revolusioner"
 - [Kriteria Postingan](https://www.facebook.com/groups/revo.lusi/posts/1445837933516587/)
 - [Kenapa Grup ini menolak Meme Jomok? (padahal cuma jokes)](https://www.facebook.com/groups/revo.lusi/posts/1445791600187887)
+- [Pembahasan mengenai SARA](https://www.facebook.com/share/p/1ApDhaqZY7/)
 - Kenapa Grup ini menolak Meme 4no? (coming soon, Insya Allah)
-- Pembahasan mengenai SARA (coming soon, Insya Allah)
 
 ## 📌 Contoh-contoh post:
 - [Meme Biasa atau Umum](https://www.facebook.com/share/p/1Aaxb1zuw9/)
