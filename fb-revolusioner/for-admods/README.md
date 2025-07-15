@@ -7,7 +7,8 @@
 
 ## 📌 Catatan-catatan umum untuk admod:
 - Berusaha ramah kepada member, bantu react + komen di post mereka
-- Beri catatan ketika menolak post (pakai opsi "Tolan dan berikan masukan")
+- Beri catatan ketika menolak post (pakai opsi "Tolak dan berikan masukan")
+- [Klik disini untuk melihat cara menolak postingan](img/cara-tolak-post.jpeg)
 
 ## 📌 Terkait Jomok (jokes homok) :
 - Hindari jomok beserta orang2 yang sudah dijadikan ikon kejomokan (walaupun mereka tidak sedang ngonten aneh2 ataupun sudah tobat)
